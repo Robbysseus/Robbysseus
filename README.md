@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Robbysseus
+- 👀 I’m interested in VR, websites, biotechnology
+- 🌱 I’m currently learning Python (and some of it's applications), java
