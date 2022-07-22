@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Robbysseus
+- 👋 Hi, I’m @Robbysseus, student Bioinformatics in Systems Biology @UGent Belgium
 - 👀 I’m interested in biotechnology, machine learning, open-source development and VR/AR
 - 🌱 I’m currently learning Python (and some of it's libraries), java, web-development
